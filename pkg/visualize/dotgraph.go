@@ -25,12 +25,12 @@ const (
 	roleBindingColor        = "#ff9900"
 	roleBindingColorOutline = "black"
 	roleBindingColorText    = "#030303"
-	roleBindingShape        = "octagon"
+	roleBindingShape        = "doubleoctagon"
 
 	clusterRoleColor        = "#ffcc00"
 	clusterRoleColorOutline = "black"
 	clusterRoleColorText    = "#030303"
-	clusterRoleShape        = "doubleoctagon"
+	clusterRoleShape        = "octagon"
 
 	clusterRoleBindingColor        = "#ffcc00"
 	clusterRoleBindingColorOutline = "black"
